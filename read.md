@@ -3,6 +3,7 @@
 
 Rustの公式サイトからrustup-init.exeをダウンロード
 
+https://rust-lang.org/ja/
 設定の確認
 ```
 rustup update
