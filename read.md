@@ -1,9 +1,7 @@
 # 環境構築
 インストール
-```
-sudo chown koki ~/.bash_profile
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-```
+
+Rustの公式サイトからrustup-init.exeをダウンロード
 
 設定の確認
 ```
